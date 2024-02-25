@@ -12,11 +12,11 @@ body {
   background-image: url('assets/disney-castle-background.jpg');
   background-size: cover;
   background-position: center;
-  color: #000; /* Improved readability */
+  color: #000; 
 }
 
 header {
-  background-color: rgba(0, 85, 255, 0.8); /* Semi-transparent for layering effect */
+  background-color: rgba(0, 85, 255, 0.8); 
   color: #ffffff;
   padding: 20px;
   text-align: center;
@@ -27,7 +27,7 @@ nav {
   display: flex;
   justify-content: center;
   padding: 10px 0;
-  background-color: rgba(224, 224, 224, 0.8); /* Semi-transparent */
+  background-color: rgba(224, 224, 224, 0.8); 
 }
 
 nav ul {
@@ -56,20 +56,20 @@ a {
 main {
   flex: 1;
   padding: 20px;
-  background: rgba(255, 255, 255, 0.7); /* Semi-transparent white background for content */
+  background: rgba(255, 255, 255, 0.7); 
   margin: 20px;
   border-radius: 15px;
-  box-shadow: 0 4px 8px rgba(0,0,0,0.2); /* Soft shadow for depth */
+  box-shadow: 0 4px 8px rgba(0,0,0,0.2); 
 }
 
 h1, h2, h3 {
   font-family: 'Pacifico', cursive;
-  text-shadow: 2px 2px 4px rgba(0,0,0,0.5); /* Text shadow for readability */
+  text-shadow: 2px 2px 4px rgba(0,0,0,0.5); 
   margin: 10px 0;
 }
 
 p {
-  text-shadow: 1px 1px 2px rgba(0,0,0,0.5); /* Subtle shadow for paragraph text */
+  text-shadow: 1px 1px 2px rgba(0,0,0,0.5); 
 }
 
 footer {
